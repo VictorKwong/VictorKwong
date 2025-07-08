@@ -10,4 +10,4 @@
 
 - 📧 **Email**: [victorkaihong@gmail.com](mailto:victorkaihong@gmail.com)  
 - 🐦 **Twitter**: [@VictorkaiWong1](https://twitter.com/VictorkaiWong1)
-- 🌐 **Website**: [victorkaiwong.com](https://victorkaiwong.com/)
+- 🌐 **Personal site**: [victorkaiwong.com](https://victorkaiwong.com/)
