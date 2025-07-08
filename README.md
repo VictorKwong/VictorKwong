@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Victor Wong
 
-<!--
-**VictorKwong/VictorKwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Combining expertise in web development, program design, and system analysis with experience in both client-side and server-side development.
 
-Here are some ideas to get you started:
+## 🛠️ Latest Projects
+- 🎮 [Mini MasterMind](https://github.com/VictorKwong/MasterMind)
+- ⏰ [Math Quiz Clock](https://github.com/VictorKwong/MathQuiz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛜 How to reach me
+
+- 📧 **Email**: [victorkaihong@gmail.com](mailto:victorkaihong@gmail.com)  
+- 🐦 **Twitter**: [@VictorkaiWong1](https://twitter.com/VictorkaiWong1)
+- 🌐 **Website**: [victorkaiwong.com](https://victorkaiwong.com/)
