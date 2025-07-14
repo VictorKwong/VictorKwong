@@ -4,7 +4,7 @@
 
 ## 🛠️ Latest Projects
 - 🎮 [Mini MasterMind](https://github.com/VictorKwong/MasterMind)
-- ⏰ [Math Quiz Clock](https://github.com/VictorKwong/MathQuiz)
+- ⏰ [CitruBrain](https://citrubrain.vercel.app/)
 
 ## 🛜 How to reach me
 
