@@ -3,6 +3,7 @@
 🌱 Combining expertise in web development, program design, and system analysis with experience in both client-side and server-side development.
 
 ## 🛠️ Latest Projects
+- 🪙 [GitTax Calculator](https://victorkwong.github.io/GitTaxCalculator)
 - 🎮 [Mini MasterMind](https://github.com/VictorKwong/MasterMind)
 - ⏰ [CitruBrain](https://citrubrain.vercel.app/)
 
