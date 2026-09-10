@@ -3,9 +3,9 @@
 🌱 Combining expertise in web development, program design, and system analysis with experience in both client-side and server-side development.
 
 ## 🛠️ Latest Projects
-- 🪙 [GitTax Calculator](https://victorkwong.github.io/GitTaxCalculator)
-- 🎮 [Mini MasterMind](https://github.com/VictorKwong/MasterMind)
-- ⏰ [CitruBrain](https://citrubrain.vercel.app/)
+- 🐒 [Flappy Wukong](https://victorwong.itch.io/flappywukong) — Unity / C# 2D game
+- ⏰ [CitruBrain](https://citrubrain.vercel.app/) — Next.js web project
+- 🪙 [GitTax Calculator](https://victorkwong.github.io/GitTaxCalculator) — Web application
 
 ## 🛜 How to reach me
 
