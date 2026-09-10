@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Victor Wong
 
-🌱 Combining expertise in web development, program design, and system analysis with experience in both client-side and server-side development.
+💻 Software developer with a background in web development, data analysis, machine learning, automation, and system analysis, with hands-on experience building client-side and server-side applications using JavaScript, Next.js, C#, Python, SQL, and Excel VBA.
 
 ## 🛠️ Latest Projects
 - 🐒 [Flappy Wukong](https://victorwong.itch.io/flappywukong) — Unity / C# 2D game
