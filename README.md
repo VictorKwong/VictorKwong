@@ -6,6 +6,7 @@
 - 🐒 [Flappy Wukong](https://victorwong.itch.io/flappywukong) — Unity / C# 2D game
 - ⏰ [CitruBrain](https://citrubrain.vercel.app/) — Next.js web project
 - 🪙 [GitTax Calculator](https://victorkwong.github.io/GitTaxCalculator) — Web application
+- 📅 [Life Calendar](https://life-calendar2026.vercel.app/) — Growth
 
 ## 🛜 How to reach me
 
